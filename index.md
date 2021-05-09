@@ -1,4 +1,4 @@
-## Welcome to Oguz Han's GitHub Pages
+## Hi! I'm Oguz Han Atas.
 
 I'm a phd student at Istanbul Uni. Department of Astronomy and Space Sciences.
 I've worked on dynamics and kinematics of the Milky Way using with Red Clump stars during master.
