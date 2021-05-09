@@ -17,6 +17,6 @@ oguz.atas@ogr.iu.edu.tr
 
 ### PUBLICATIONS
 
-<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.5793K/abstract" target="_blank">-2020- Infrared colours and spectral energy distributions of hard X-ray selected obscured and Compton-thick active galactic nuclei</a>
-
 <a href="https://iupress.istanbul.edu.tr/en/book/galaktik-astronomi-calistayi-bildiriler-kitabi/home" target="_blank">-2021- Galactic Astronomy Workshop Proceedings Book</a>
+
+<a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.494.5793K/abstract" target="_blank">-2020- Infrared colours and spectral energy distributions of hard X-ray selected obscured and Compton-thick active galactic nuclei</a>
