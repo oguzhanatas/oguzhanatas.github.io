@@ -5,7 +5,7 @@ I've worked on dynamics and kinematics of the Milky Way using with Red Clump sta
 Now, I'm working on "chemical formation and evolution of the solar neighborhood" and my thesis topic related to it.
 Also, I'm interested in high-energy astrophysics. Therefore, I've contributed to some studies. 
 
-During my studies I prefer to use Python. 
+When required I prefer to use Python. I'm able to use most of statistical packages and I can easily adapt new ones. Also, I can create a package in line with the requirement. 
 
 ### Contact
 
