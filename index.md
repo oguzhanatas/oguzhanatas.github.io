@@ -7,3 +7,8 @@ I've worked on dynamics and kinematics of the Milky Way using with Red Clump sta
 ### Support or Contact
 
 oguz.atas@ogr.iu.edu.tr
+
+### CV
+
+<iframe src="./documents/cv_eng.pdf" width="100% height=100%">
+</iframe>
