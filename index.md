@@ -10,4 +10,5 @@ oguz.atas@ogr.iu.edu.tr
 
 ### CV
 
-<a target='_blank' href={require('./documents/cv_eng.pdf')}>PDF Doc</a>
+<embed src="./documents/cv_eng.pdf" width="100%" height="745px" />
+
