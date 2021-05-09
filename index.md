@@ -12,3 +12,7 @@ oguz.atas@ogr.iu.edu.tr
 
 <a href="./documents/cv_eng.pdf" target="_blank">click download my cv</a>
 
+### PUBLICATIONS
+
+<a href="https://iupress.istanbul.edu.tr/en/book/galaktik-astronomi-calistayi-bildiriler-kitabi/home" target="_blank">Galactic Astronomy Workshop Proceedings Book</a>
+
