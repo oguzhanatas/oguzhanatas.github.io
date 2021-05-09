@@ -10,5 +10,5 @@ oguz.atas@ogr.iu.edu.tr
 
 ### CV
 
-<embed src="./documents/cv_eng.pdf" width="100%" height="745px" />
+<a href="oguzhanatas.github.io/documents/cv_eng.pdf" target="_blank">PDF.</a>
 
