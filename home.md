@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+
 
 ## Hi! I'm Oguz Han,
 
@@ -14,3 +18,6 @@ When required I prefer to use Python. I'm able to use most of statistical packag
 
 
 <img src='./bckg/ConjuncionViaLacteaHumanoVenusLuna_Jaramillo.jpg' style='position:fixed;top:0px;left:0px;width:100%;height:100%;z-index:-1;alpha=0.5'>
+
+</body>
+</html>
