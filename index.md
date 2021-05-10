@@ -13,7 +13,9 @@ oguz.atas@ogr.iu.edu.tr
 
 ### CV
 
-<a href="./documents/cv_eng.pdf" target="_blank">click download my cv</a>
+<a href="./documents/cv_eng.pdf" target="_blank">
+ <img border="0" src="./documents/images/cv_banner.png">
+</a>
 
 ### PUBLICATIONS
 
