@@ -1,11 +1,11 @@
 
-<ul>
-    <li>Home</li>
-    <li>About</li>
-    <li>Services</li>
-    <li>Partners</li>
-    <li>Contacts</li>
-</ul>
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+</div>
+
 ## Hi! I'm Oguz Han,
 
 I'm a phd student at Istanbul Uni. Department of Astronomy and Space Sciences.
