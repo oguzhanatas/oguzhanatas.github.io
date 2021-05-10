@@ -11,8 +11,6 @@ When required I prefer to use Python. I'm able to use most of statistical packag
 
 oguz.atas@ogr.iu.edu.tr
 
-### CV
-
 <a href="./documents/cv_eng.pdf" target="_blank">
  <img border="0" src="./images/cv_banner.png">
 </a>
