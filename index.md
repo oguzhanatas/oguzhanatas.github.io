@@ -1,3 +1,11 @@
+
+<ul>
+    <li>Home</li>
+    <li>About</li>
+    <li>Services</li>
+    <li>Partners</li>
+    <li>Contacts</li>
+</ul>
 ## Hi! I'm Oguz Han,
 
 I'm a phd student at Istanbul Uni. Department of Astronomy and Space Sciences.
