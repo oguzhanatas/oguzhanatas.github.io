@@ -57,7 +57,27 @@ li a:hover:not(.active) {
 
 <div style="padding:20px;margin-top:30px;height:1500px;">
 
-    <p><h2>oguz.atas@ogr.iu.edu.tr</h2></p>
+    <form action="mailto:oguz.atas@ogr.iu.edu.tr">
+
+        <label for="fname">First Name</label>
+        <input type="text" id="fname" name="firstname" placeholder="Your name..">
+    
+        <label for="lname">Last Name</label>
+        <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+    
+        <label for="country">Country</label>
+        <select id="country" name="country">
+          <option value="australia">Australia</option>
+          <option value="canada">Canada</option>
+          <option value="usa">USA</option>
+        </select>
+    
+        <label for="subject">Subject</label>
+        <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+    
+        <input type="submit" value="Submit">
+    
+      </form>
 
     <img src='./bckg/ConjuncionViaLacteaHumanoVenusLuna_Jaramillo.jpg' style='position:fixed;top:0px;left:0px;width:100%;height:100%;z-index:-1;opacity:0.4;'>
 </div>
